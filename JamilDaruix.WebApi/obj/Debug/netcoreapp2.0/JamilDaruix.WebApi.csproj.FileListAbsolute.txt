@@ -1,0 +1,10 @@
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\bin\Debug\netcoreapp2.0\JamilDaruix.WebApi.deps.json
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\bin\Debug\netcoreapp2.0\JamilDaruix.WebApi.runtimeconfig.json
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\bin\Debug\netcoreapp2.0\JamilDaruix.WebApi.runtimeconfig.dev.json
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\bin\Debug\netcoreapp2.0\JamilDaruix.WebApi.dll
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\bin\Debug\netcoreapp2.0\JamilDaruix.WebApi.pdb
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.csproj.CoreCompileInputs.cache
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.AssemblyInfoInputs.cache
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.AssemblyInfo.cs
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.dll
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.pdb
