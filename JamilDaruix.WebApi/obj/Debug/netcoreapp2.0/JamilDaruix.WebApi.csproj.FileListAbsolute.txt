@@ -8,3 +8,4 @@ c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcorea
 c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.AssemblyInfo.cs
 c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.dll
 c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.pdb
+c:\Projetos\vs_code\Labs\JamilDaruixWebApi\JamilDaruix.WebApi\obj\Debug\netcoreapp2.0\JamilDaruix.WebApi.csprojResolveAssemblyReference.cache
